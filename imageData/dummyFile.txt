@@ -1,0 +1,4 @@
+This is a dummy file in order to successfully upload this folder to 
+github.
+
+You need to move the 3060 images to this folder.
