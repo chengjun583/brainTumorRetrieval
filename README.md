@@ -13,6 +13,6 @@ Contact information
 ---
 Jun Cheng  
 School of Biomedical Engineering  
-Southern Medical University, Guangzhou, China  
+Shenzhen University, Shenzhen, China  
 Email: chengjun583@qq.com
 
